@@ -9,4 +9,4 @@
   - Resetear la db con `npx prisma migrate reset` y que recargue la seed de 0. Luego
     correr normal el server con `npm run dev`
   - Usar la db tal cual esta _(con el ejemplo cargado "Manteca", que lo hice con el modal
-    de subir un porducto)_, y de ahí hacer lo explicado en el [README.md del repo del Frontend](https://github.com/PatoRat/entrega-tarea-1-ratcliffe/blob/galeria-frontend/README.md)
+    de subir un porducto)_, y de ahí hacer lo explicado [al final del README.md del repo del Frontend](https://github.com/PatoRat/entrega-tarea-1-ratcliffe/blob/galeria-frontend/README.md#configuraci%C3%B3n-autom%C3%A1tica-de-la-url-del-backend)
